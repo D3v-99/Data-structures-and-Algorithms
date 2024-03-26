@@ -25,7 +25,7 @@ For more information on how to contribute, please refer to the Contributing Guid
 
 ### License
 
-This project is licensed under the MIT License - see the LICENSE: [link-to-license-file] file for details.
+This project is licensed under the MIT License - see the LICENSE:[LICENSE.md](LICENSE.md) file for details.
 
 ### Contact
 
