@@ -1,5 +1,27 @@
 # Data-structures-and-Algorithms
 
+## Table of Contents
+
+* [Algorithms](#algorithms)
+     * [Searching Algorithms](#searching-algorithms)
+        * [Linear Search](#linear-search)
+        * [Binary Search](#binary-search)
+    * [Sorting Algorithms](#sorting-algorithms)
+        * [Bubble Sort](#bubble-sort)
+        * [Selection Sort](#selection-sort)
+        * [Insertion Sort](#insertion-sort)
+        * [Merge Sort](#merge-sort)
+        * [Quick Sort](#quick-sort)
+        * [Heap Sort](#heap-sort)
+    * [Graph Algorithms](#graph-algorithms)
+        * [Breadth-First Search (BFS)](#breadth-first-search-bfs)
+        * [Depth-First Search (DFS)](#depth-first-search-dfs)
+    * [Other Algorithms](#other-algorithms)
+        * [Dynamic Programming](#dynamic-programming)
+        * [Greedy Algorithms](#greedy-algorithms)
+
+
+
 ### Description
 
 The Data Structures and Algorithms Library is an open-source collection of implementations for various data structures and algorithms, designed to be language-agnostic. Whether you're working in C++, Python, Java, or any other programming language, this library aims to provide a comprehensive set of solutions for common data structure and algorithm problems. From fundamental data structures like arrays and linked lists to advanced algorithms like sorting and graph traversal, our goal is to create a collaborative resource that benefits developers of all backgrounds.
