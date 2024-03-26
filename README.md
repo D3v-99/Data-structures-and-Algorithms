@@ -3,8 +3,8 @@
 ## Table of Contents
 
 * [Algorithms](#algorithms)
-     * [Searching Algorithms](#searching-algorithms)
-        * [Linear Search](#linear-search)
+     * [Searching Algorithms](searching-algorithms)
+        * [Linear Search](linear-search)
         * [Binary Search](#binary-search)
     * [Sorting Algorithms](#sorting-algorithms)
         * [Bubble Sort](#bubble-sort)
