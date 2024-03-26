@@ -21,12 +21,12 @@ We welcome contributions in any programming language! To contribute to the Data 
 4. Write clear, well-documented code.
 5. Submit a pull request detailing your changes.
 
-For more information on how to contribute, please refer to the Contributing Guidelines: [link-to-contributing-guidelines].
+For more information on how to contribute, please refer to the Contributing Guidelines: 
 
 ### License
 
-This project is licensed under the MIT License - see the LICENSE:[LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the LICENSE.md](LICENSE.md)  file for details.
 
 ### Contact
 
-If you have any questions or suggestions regarding the Data Structures and Algorithms Library, feel free to contact us at [adolphjohn0@gmail.com].
+If you have any questions or suggestions regarding the Data Structures and Algorithms Library, feel free to contact us at  [adolphjohn0@gmail.com].
