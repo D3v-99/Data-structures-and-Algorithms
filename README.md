@@ -4,8 +4,8 @@
 
 * [Algorithms](#algorithms)
      * [Searching Algorithms](search-algorithms)
-        * [Linear Search](linear-search)
-        * [Binary Search](#binary-search)
+        * [Linear Search](search-algorithms/linear-search)
+        * [Binary Search](search-algorithms/binary-search)
     * [Sorting Algorithms](sort-algorithms)
         * [Bubble Sort](bubble-sort)
         * [Selection Sort](#selection-sort)
