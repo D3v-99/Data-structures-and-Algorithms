@@ -8,6 +8,7 @@
         * [Binary Search](search-algorithms/binary-search)
     * [Sorting Algorithms](sort-algorithms)
         * [Bubble Sort](sort-algorithms/bubble-sort)
+           *[Bubble Sort theory Interview](sort-algorithms/bubble-sort/Interview.md)
         * [Selection Sort](sort-algorithms/selection-sort)
         * [Insertion Sort](sort-algorithms/insertion-sort)
         * [Merge Sort](sort-algorithms/merge-sort)
